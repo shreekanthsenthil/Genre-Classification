@@ -1,17 +1,21 @@
-!.[.].(https://img.shields.io/badge/Status%20-Completed-red)
+! [.](https://img.shields.io/badge/Status%20-Completed-red)
 
 # Genre Classification
 ## Shreekanth J S
 
-Songs were classfied into 10 genres using KNN, SVM, Decsion Tree and Logistic Regression Alogrithms.
+Songs were classfied into 10 genres using 
+* K-Nearest Neighbours
+* Support Vector Machine
+* Decsion Tree
+* Logistic Regression Alogrithms.
 
-##Dataset:
+## Dataset:
 
 **GTZAN** Genre Collection dataset was used.
 
-##Performance:
+## Performance:
 
-![F1 Score] (/images/f1.png)
+! [F1 Score](/images/f1.png)
 
 
 
